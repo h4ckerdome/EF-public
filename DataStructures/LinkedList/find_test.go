@@ -15,7 +15,7 @@ func TestFind(t *testing.T) {
 
 	node := ll.Find("Three")
 
-	if node.str != "Three" {
-		t.Fatalf(`Failed to find now with "Three" as value. Node.str = %v`, node.str)
+	if node == nil || node.str != "Three" {
+		t.Fatalf(`Failed to find now with "Three" as value. Node = %v`, node)
 	}
 }
