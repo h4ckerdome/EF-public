@@ -34,6 +34,7 @@ func (L *LinkedList) Append(str string) {
 // Find a node with this string
 func (L *LinkedList) Find(str string) *Node {
 	// Insert Code Here
+	return nil
 }
 
 // Delete node, probably need to find the node first wink wink
@@ -44,4 +45,5 @@ func (L *LinkedList) Delete(n *Node) {
 // Returns length of Linked List
 func (L *LinkedList) Len() int {
 	// Insert Code Here
+	return 0
 }
