@@ -2,7 +2,7 @@
 
 ### Mission
 
-So it seems the Senior Engineer has left for the week and stuck you with finishing up his jira ticket. Thankfully they left you with some structure for the Linked List you need to implement and some tests that are failing.
+So it seems the Senior Engineer has left for the week and stuck you with finishing up their jira ticket. Thankfully they left you with some structure for the Linked List you need to implement and some tests that are failing.
 
 All you need to do is complete the following methods for the LinkedList struct and you are done for the day.
 
