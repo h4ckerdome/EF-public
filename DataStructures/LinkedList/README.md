@@ -13,6 +13,6 @@ Finish the following methods:
 
 They were even nice enough to leave some comments for you. 
 
-Run your tests with the following command in from the 'Linked List' folder:
+Run your tests with the following command in from the 'LinkedList' folder:
 
 - `go test -v`
