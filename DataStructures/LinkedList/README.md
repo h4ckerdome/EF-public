@@ -6,7 +6,7 @@ So it seems the Senior Engineer has left for the week and stuck you with finishi
 
 All you need to do is complete the following methods for the LinkedList struct and you are done for the day.
 
-Finish the following methods:
+Finish the following methods in [LinkedList.go](LinkedList.go):
 - `Find`
 - `Delete`
 - `Len`
